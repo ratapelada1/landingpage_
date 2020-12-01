@@ -1,0 +1,81 @@
+.btn-blue {
+text-decoration:none;
+background-color:#3A7685;
+color:white;
+cursor:pointer;
+font-family:'Anton',sans-serif;
+font-size:20px;
+line-height:90px;
+text-align:center;
+font-weight:bold;
+padding: 10px 25px;
+border-radius: 10px;
+}
+
+.btn-blue:hover {
+background-color:white;
+color:#3A7685;
+}
+
+
+.btn-spring{
+text-decoration:none;
+background-color:transparent;
+color:#3A7685;
+cursor:pointer;
+font-family:'Anton',sans-serif;
+font-size:15px;
+line-height:90px;
+text-align:center;
+font-weight:bold;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+
+
+.btn-white{
+text-decoration:none;
+background-color:transparent;
+color:#3A7685;
+cursor:pointer;
+font-family:'Anton',sans-serif;
+font-size:15px;
+line-height:90px;
+text-align:center;
+font-weight:bold;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+
+
+.btn-hoops{
+text-decoration:none;
+background-color:transparent;
+color:#3A7685;
+cursor:pointer;
+font-family:'Anton',sans-serif;
+font-size:15px;
+line-height:90px;
+text-align:center;
+font-weight:bold;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+
+
+.btn-limited{
+text-decoration:none;
+background-color:transparent;
+color:#3A7685;
+cursor:pointer;
+font-family:'Anton',sans-serif;
+font-size:15px;
+line-height:90px;
+text-align:center;
+font-weight:bold;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+
+
+
